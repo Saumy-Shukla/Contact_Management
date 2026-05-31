@@ -9,12 +9,7 @@ This is a beginner-level project created to practice basic C++ concepts and logi
 * Search for a contact by name
 * Edit contact details
 * Delete a contact
-## Features
-* Display all contact details
-* Add a new contact
-* Search for a contact by name
-* Edit contact details
-* Delete a contact
+
 ## Information Stored for Each Contact
 Each contact stores the following information:
 
